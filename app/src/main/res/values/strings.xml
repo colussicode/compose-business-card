@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="jo_o_colussi">João Colussi</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+    <string name="_11_123_444_555_666">+11 (123)444 555 666</string>
+    <string name="colussi">\@Colussi</string>
+    <string name="colussidev_gmail_com">colussidev@gmail.com</string>
+</resources>
